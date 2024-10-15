@@ -2,23 +2,16 @@
 
 ## Overview
 
-TODO: Write a project description
+A bouncy ball game that uses javascript to create an evil circle that eliminates 
+other bouncy balls.
+
+## How to run:
+- Open your terminal and cd into the directory you wish to clone the project into
+- Use the Git Clone command to copy the repository: https://github.com/Megan-Aker/cs408-lab9.git
+- Once it is copied, cd into the repo
+- Open the cloned repo in your IDE, then use live preview to view index.html to view the site.
 
 ## Sources and Credits
+- https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/fillStyle
+- https://github.com/shanep/web-dev-starter 
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
