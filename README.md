@@ -13,5 +13,6 @@ other bouncy balls.
 
 ## Sources and Credits
 - https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/fillStyle
-- https://github.com/shanep/web-dev-starter 
+- https://github.com/shanep/web-dev-starter
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/continue 
 
